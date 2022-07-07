@@ -1,0 +1,21 @@
+.root {
+    background: #000;
+    font-family: arial;
+    font-size: 24px;
+    margin: 10px;
+    height: 200px;
+    /* Setup */
+    position: relative;
+}
+.ml2 {
+  font-weight: 500;
+  font-size: 1em;
+  color: white;
+    /* Center vertically and horizontally */
+    position: absolute;
+  }
+
+.ml2 .letter {
+  display: inline-block;
+  line-height: 1em;
+}
